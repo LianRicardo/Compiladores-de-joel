@@ -1,0 +1,10 @@
+﻿  pch.cpp
+  AssemblyInfo.cpp
+  Compilador.cpp
+  ErrorModule.cpp
+  Lexico.cpp
+  Tokens.cpp
+  Generando código...
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  AssemblyInfo.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  Compilador.vcxproj -> C:\Users\Lian Ricardo\source\repos\Proyecto_Compiladores2\\DLL\Binaries\x64\Debug\Compilador.dll
