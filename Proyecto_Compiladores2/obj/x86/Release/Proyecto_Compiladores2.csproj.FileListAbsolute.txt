@@ -1,7 +1,0 @@
-C:\Users\Lian Ricardo\source\repos\Proyecto_Compiladores2\bin\x86\Release\Proyecto_Compiladores2.exe.config
-C:\Users\Lian Ricardo\source\repos\Proyecto_Compiladores2\bin\x86\Release\Proyecto_Compiladores2.exe
-C:\Users\Lian Ricardo\source\repos\Proyecto_Compiladores2\obj\x86\Release\Proyecto_Compiladores2.Form1.resources
-C:\Users\Lian Ricardo\source\repos\Proyecto_Compiladores2\obj\x86\Release\Proyecto_Compiladores2.Properties.Resources.resources
-C:\Users\Lian Ricardo\source\repos\Proyecto_Compiladores2\obj\x86\Release\Proyecto_Compiladores2.csproj.GenerateResource.cache
-C:\Users\Lian Ricardo\source\repos\Proyecto_Compiladores2\obj\x86\Release\Proyecto_Compiladores2.csproj.CoreCompileInputs.cache
-C:\Users\Lian Ricardo\source\repos\Proyecto_Compiladores2\obj\x86\Release\Proyecto_Compiladores2.exe
